@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Box
+comment1.params=
+comment1.target=void\ show_area()
+comment2.params=
+comment2.target=void\ show_volume()
+comment3.params=height\ length
+comment3.target=void\ Area(int,\ int)
+comment4.params=a
+comment4.target=void\ Area(int)
+comment5.params=height\ breadth\ length
+comment5.target=void\ Area(int,\ int,\ int)
+comment6.params=a
+comment6.target=void\ Volume(int)
+comment7.params=height\ breadth\ length
+comment7.target=void\ Volume(int,\ int,\ int)
+numComments=8
